@@ -1,17 +1,17 @@
 {
   "ascii": [
-    "███████╗██╗  ██╗███████╗██╗     ██╗",
-    "██╔════╝██║  ██║██╔════╝██║     ██║",
-    "███████╗███████║█████╗  ██║     ██║",
-    "╚════██║██╔══██║██╔══╝  ██║     ██║",
+    "██╗  ██╗███████╗██╗     ██╗",
+    "██╝   ██║  ██║██╔════╝██║     ██║",
+    "██╗   ███████║█████╗  ██║     ██║",
+    "██║     ██╔══██║██╔══╝  ██║     ██║",
     "███████║██║  ██║███████╗███████╗███████╗",
     "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
   ],
-  "title": "WebShell",
-  "username": "visitor",
-  "hostname": "webshell",
+  "title": "Halo",
+  "username": "LORENZO",
+  "hostname": "lorenzo-shell",
   "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "repoLink": "https://github.com/LORENZOMD",
   "social": {
     "email": "your@email.com",
     "github": "yourgithub",
@@ -22,12 +22,12 @@
     [
       "GofeR",
       "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "https://github.com/LORENZOMD"
     ],
     [
       "WebShell",
       "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "https://github.com/LORENZOMD"
     ]
   ],
   "colors": {
